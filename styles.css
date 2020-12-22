@@ -27,5 +27,18 @@ body {
     background-color: #a3a0d5eb;
     justify-content: center;
     align-items: center;
-    box-shadow: 5px 1px 20px 1px #e8e8e8;
+    box-shadow: -1px -5px 20px 1px #e8e8e8;
+}
+
+.loc {
+    display: flex;
+    align-items: center;
+    width: fit-content;
+    height: auto;
+    background-color: blue;
+    padding: .6rem;
+    border-radius: 6px;
+    margin: -1.3rem 0 0 17rem;
+    cursor: pointer;
+    font-weight: 700;
 }
