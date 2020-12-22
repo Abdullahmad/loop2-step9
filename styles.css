@@ -42,3 +42,35 @@ body {
     cursor: pointer;
     font-weight: 700;
 }
+
+.cols {
+    display: flex;
+    align-items: center;
+    margin-top: 2rem;
+}
+
+.cols div p {
+    color: #c2bdbd;
+    font-weight: 600;
+}
+
+.cols div h4 {
+    margin-top: .3rem;
+    color: rgb(42, 39, 39);
+    font-weight: 600;
+}
+
+.stret {
+    width: 24.1rem;
+    height: 5rem;
+    margin-left: 1.9rem;
+    margin-top: 1.4rem;
+}
+
+.corp {
+    margin: 1rem 2rem 0 2rem;
+}
+
+.stock {
+    stroke: blue;
+}
