@@ -15,3 +15,17 @@ body {
     background-color: white;
     margin: 10vh auto;
 }
+
+.radii {
+    width: 28rem;
+    height: 8rem;
+    background-image: url(./img/map.png);
+    background-position: center;
+    margin-left: -1rem;
+    border-radius: 4px;
+    background-blend-mode: color-burn;
+    background-color: #a3a0d5eb;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 5px 1px 20px 1px #e8e8e8;
+}
